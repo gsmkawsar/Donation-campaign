@@ -18,7 +18,6 @@ const DonationItem = () => {
   
     }, [id, donations]);
    
-    console.log(donation)
 
     return (
         <div>
