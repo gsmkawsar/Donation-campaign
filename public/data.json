@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "Picture": "https://i.ibb.co/4N40Mm2/Health.png",
+      "Title": "Clean water for children",
+      "Category": "Health",
+      "Description": "High-quality electronic gadget for your needs.",
+      "Price": 299.99,
+      "Colors": ["Red", "Blue", "Black"]
+    },
+    {
+      "id": 2,
+      "Picture": "https://i.ibb.co/WfsSmHk/Education.png",
+      "Title": "Good education",
+      "Category": "Education",
+      "Description": "Fashionable attire for any occasion.",
+      "Price": 49.99,
+      "Colors": ["Green", "Yellow", "Purple"]
+    },
+    {
+      "id": 3,
+      "Picture": "https://i.ibb.co/8cMwpGG/Clothing.png",
+      "Title": "Used Clothing Drive",
+      "Category": "Clothing",
+      "Description": "Enhance your home with this beautiful item.",
+      "Price": 199.99,
+      "Colors": ["Brown", "White", "Gray"]
+    },
+    {
+      "id": 4,
+      "Picture": "https://i.ibb.co/NK30R4V/Food.png",
+      "Title": "Better Food for Everyone",
+      "Category": "Food",
+      "Description": "Fun and engaging entertainment for kids.",
+      "Price": 29.99,
+      "Colors": ["Orange", "Pink", "Blue"] 
+    }
+]
+    
