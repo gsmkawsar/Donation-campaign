@@ -50,7 +50,7 @@ const DonationItemCard = ({ donation }) => {
 
                 </div>
                 <h1 className=" text-3xl py-5">{Title}</h1>
-                <p className="py-5">{Description}</p>
+                <p className="py-5 mb-44">{Description}</p>
             </div>
 
         </div>

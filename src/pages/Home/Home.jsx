@@ -1,6 +1,8 @@
 import { useLoaderData } from "react-router-dom";
 import DonationCards from "../../components/DonationCards/DonationCards";
 import Banner from "../../components/Header/NavBar/Banner/Banner";
+import Statistics from "../Statistics/Statistics";
+
 
 
 const Home = () => {
@@ -14,7 +16,9 @@ const Home = () => {
 
             </div>
             <DonationCards donationCards={donationCards}></DonationCards>
+
         </div>
+ 
     );
 };
 
